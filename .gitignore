@@ -1,0 +1,7 @@
+.DS_Store
+/.build
+/GestureDetector/.build
+/GestureListener/.build
+/*.xcodeproj
+/*.xcworkspace
+/DerivedData/

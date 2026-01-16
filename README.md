@@ -101,4 +101,4 @@ This ensures consistent behavior regardless of resolution or aspect ratio.
 
 ---
 
-Built with ❤️ by **Aashish Awadhani**.# GestureLink
+Built with ❤️ by **Aashish Awadhani**.
